@@ -1,3 +1,3 @@
-a = 10
+a = 100
 b = 6
-print (a - b)
+print (a * b)
